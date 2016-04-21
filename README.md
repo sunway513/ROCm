@@ -29,14 +29,14 @@ of the following GitHub repositories:
 * [ROCK-Kernel-Driver](https://github.com/RadeonOpenCompute/ROCK-Kernel-Driver/tree/dev)
 * [ROCR-Runtime](https://github.com/RadeonOpenCompute/ROCR-Runtime/tree/dev)
 * [ROCT-Thunk-Interface](https://github.com/RadeonOpenCompute/ROCT-Thunk-Interface/tree/dev)
-* [HCC compiler](https://github.com/RadeonOpenCompute/hcc/tree/roc-1.0)
+* [HCC compiler](https://github.com/RadeonOpenCompute/hcc/tree/roc-1.0.x)
 * [LLVM-AMDGPU-Assembler-Extra](https://github.com/RadeonOpenCompute/LLVM-AMDGPU-Assembler-Extra/tree/master)
 
 In addition the following mirror repositories that support the HCC compiler are
 also available on GitHub, and frozen for the roc-1.0.0 release:
 
-* [llvm](https://github.com/RadeonOpenCompute/llvm/tree/roc-1.0)
-* [clang](https://github.com/RadeonOpenCompute/clang/tree/roc-1.0)
+* [llvm](https://github.com/RadeonOpenCompute/llvm/tree/roc-1.0.x)
+* [clang](https://github.com/RadeonOpenCompute/clang/tree/roc-1.0.x)
 
 ### Installing from AMD ROCm Repositories
 AMD is hosting both debian and rpm repositories for the ROCm 1.0 packages. The
