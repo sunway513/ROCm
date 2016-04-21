@@ -16,7 +16,7 @@
     <project path="hcc" name="hcc" />
     <project path="ROCT-Thunk-Interface" name="ROCT-Thunk-Interface" />
     <project path="ROCR-Runtime" name="ROCR-Runtime" />
-    <project path="HIP" remote="pctools-github" name="HIP" />
-    <project path="HIP-Examples" remote="pctools-github" name="HIP-Examples" />
+    <project path="HIP" remote="pctools-github" name="HIP" revision="master" />
+    <project path="HIP-Examples" remote="pctools-github" name="HIP-Examples" revision="master" />
 
 </manifest>
