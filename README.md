@@ -21,7 +21,7 @@ the Kernel Fusion Driver (KFD), the HSA+ Runtime and an LLVM based compilation
 stack for the building of key language support. This support starts with AMD’s
 FIJI Family of dGPU, but support is planned to expand to include future ASICS.
 
-### The Latest ROCm Platform - ROCm 1.1
+### The Latest ROCm Platform - ROCm 1.1.1
 The latest tested version of the drivers, tools, libraries and source code for
 the ROCm platform have been released and are available under the roc-1.1.1 tag
 of the following GitHub repositories:
