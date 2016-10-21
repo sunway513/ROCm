@@ -14,14 +14,14 @@
     <project path="llvm-amdgpu-assembler-extra" name="LLVM-AMDGPU-Assembler-Extra" />
     <project path="clang" name="clang" />
 
-    <project path="hcc" name="hcc" revision="refs/tags/develop_0.10.16402" />
+    <project path="hcc" name="hcc" revision="refs/tags/develop_0.10.16415" />
     <project path="ROCT-Thunk-Interface" name="ROCT-Thunk-Interface" />
     <project path="ROCK-Kernel-Driver" name="ROCK-Kernel-Driver" />
     <project path="ROC-smi" name="ROC-smi" />
     <project path="ROCnRDMA" name="ROCnRDMA" />
     <project path="rdma-perftest" name="rdma-perftest" />
     <project path="ROCR-Runtime" name="ROCR-Runtime" />
-    <project path="HIP" remote="pctools-github" name="HIP" revision="refs/tags/preview_0.92.16405" />
+    <project path="HIP" remote="pctools-github" name="HIP" revision="refs/tags/preview_1.0.16424" />
     <project path="HIP-Examples" remote="pctools-github" name="HIP-Examples" />
 
 </manifest>
