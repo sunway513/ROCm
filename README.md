@@ -27,7 +27,7 @@ documentation, please refer to https://radeonopencompute.github.io
 
 ### The Latest ROCm Platform - ROCm 1.3
 The latest tested version of the drivers, tools, libraries and source code for
-the ROCm platform have been released and are available under the roc-1.3.0 tag.
+the ROCm platform have been released and are available under the roc-1.3.1 tag.
 The repo tool can be used to checkout the full software stack.
 
 #### Installing repo
